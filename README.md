@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mrakbarali
 - 👀 I’m interested in Web
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning web programming
+- 💞️ I’m looking to collaborate on  university
+- 📫 How to reach me only by studying
 
 <!---
 mrakbarali/mrakbarali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
